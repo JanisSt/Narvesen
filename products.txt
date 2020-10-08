@@ -1,0 +1,6 @@
+
+Sausage;100;5|
+Bread;60;6|
+Cheese;200;18|
+Beer;300;11|
+Coffee;100;3|
